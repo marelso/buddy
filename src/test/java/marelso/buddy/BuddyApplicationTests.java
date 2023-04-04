@@ -10,4 +10,9 @@ class BuddyApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	public void buddytest() {
+		System.out.println("Test");
+	}
+
 }
